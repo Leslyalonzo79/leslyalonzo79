@@ -30,6 +30,12 @@
         .emoji {
             font-size: 1.5em;
         }
+        .badges {
+            margin: 20px 0;
+        }
+        .badges img {
+            margin: 5px;
+        }
         footer {
             background-color: #ffccf2;
             padding: 10px;
@@ -54,15 +60,28 @@
 </head>
 <body>
     <header>
-        <h1>Lesly Alonzo</h1>
-        <p>Bienvenidos a mi perfil de GitHub</p>
+        <h1 align="center"><b>Hola, soy Lesly Alonzo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+        <p align="center">
+            <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23ff66b2&size=25&center=true&vCenter=true&width=600&height=100&lines=Me+gusta+leer+%F0%9F%93%9A;Me+gusta+dormir+%F0%9F%98%B4;Me+gusta+ver+series+y+pel%C3%ADculas+%F0%9F%93%BA;Solo+hablo+espa%C3%B1ol+%F0%9F%97%A3%EF%B8%8F;Juego+a+la+Playstation+%F0%9F%8E%AE;Escucho+Spotify+%F0%9F%8E%A7"></a>
+        </p>
     </header>
     <div class="content">
+        <div class="badges">
+            <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+            <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
+            <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+        </div>
         <p>¡Hola! Me llamo Lesly Alonzo y este es mi espacio en GitHub. Aquí comparto algunos de mis proyectos y pasiones.</p>
-        <p><span class="emoji">🌷📚</span> Me gusta leer</p>
-        <p><span class="emoji">😴❕</span> Me gusta dormir</p>
-        <p><span class="emoji">🍓</span> Me gusta ver series y películas</p>
-        <p><span class="emoji">🍄</span> Solo manejo un idioma, que es el español</p>
+        <p><span class="emoji">📚</span> Me gusta leer</p>
+        <p><span class="emoji">😴</span> Me gusta dormir</p>
+        <p><span class="emoji">📺</span> Me gusta ver series y películas</p>
+        <p><span class="emoji">🗣️</span> Solo hablo español</p>
+        <p><span class="emoji">🎮</span> Juego a la Playstation</p>
+        <p><span class="emoji">🎧</span> Escucho Spotify</p>
     </div>
     <div class="repositorios">
         <div class="repositorio">
