@@ -59,10 +59,10 @@
     </header>
     <div class="content">
         <p>¡Hola! Me llamo Lesly Alonzo y este es mi espacio en GitHub. Aquí comparto algunos de mis proyectos y pasiones.</p>
-        <p><span class="emoji">📚</span> Me gusta leer</p>
-        <p><span class="emoji">😴</span> Me gusta dormir</p>
-        <p><span class="emoji">📺</span> Me gusta ver series y películas</p>
-        <p><span class="emoji">🗣️</span> Solo manejo un idioma, que es el español</p>
+        <p><span class="emoji">🌷📚</span> Me gusta leer</p>
+        <p><span class="emoji">😴❕</span> Me gusta dormir</p>
+        <p><span class="emoji">🍓</span> Me gusta ver series y películas</p>
+        <p><span class="emoji">🍄</span> Solo manejo un idioma, que es el español</p>
     </div>
     <div class="repositorios">
         <div class="repositorio">
