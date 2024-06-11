@@ -4,46 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Perfil de Lesly Alonzo</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #ffe6f2;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-        header {
-            background-color: #ffccf2;
-            padding: 20px;
-        }
-        h1 {
-            color: #ff66b2;
-        }
-        .content {
-            margin: 20px;
-            padding: 20px;
-            background-color: #ffffff;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        .emoji {
-            font-size: 1.5em;
-        }
-        .badges, .section {
-            margin: 20px 0;
-        }
-        .badges img, .section img {
-            margin: 5px;
-        }
-        footer {
-            background-color: #ffccf2;
-            padding: 10px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
+    
 </head>
 <body>
     <header>
