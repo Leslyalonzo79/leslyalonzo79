@@ -19,7 +19,7 @@
         <p><span class="emoji">🍵</span> Español</p>
         <p><span class="emoji">🧺</span> Me gusta cocinar</p>
         <p><span class="emoji">🌱</span> Me gustan las plantas</p>
-        <img src="https://i.pinimg.com/originals/5a/3b/3f/5a3b3f0e02126e8ff63544b9ae292db7.gif" alt="GIF bonito" width="300">
+        <img src="https://pin.it/19Tk3snMS" alt="GIF bonito" width="300">
         <div class="section">
             <h2>Lenguajes de Programación</h2>
             <div class="badges">
