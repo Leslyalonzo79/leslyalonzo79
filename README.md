@@ -30,10 +30,10 @@
         .emoji {
             font-size: 1.5em;
         }
-        .badges {
+        .badges, .section {
             margin: 20px 0;
         }
-        .badges img {
+        .badges img, .section img {
             margin: 5px;
         }
         footer {
@@ -42,19 +42,6 @@
             position: fixed;
             width: 100%;
             bottom: 0;
-        }
-        .repositorios {
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-        }
-        .repositorio {
-            background-color: #ffe6f2;
-            margin: 10px;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            width: 200px;
         }
     </style>
 </head>
@@ -66,43 +53,36 @@
         </p>
     </header>
     <div class="content">
-        <div class="badges">
-            <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-            <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-            <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
-            <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-        </div>
         <p>¡Hola! Me llamo Lesly Alonzo y este es mi espacio en GitHub. Aquí comparto algunos de mis proyectos y pasiones.</p>
         <p><span class="emoji">📚</span> Me gusta leer</p>
         <p><span class="emoji">😴</span> Me gusta dormir</p>
         <p><span class="emoji">📺</span> Me gusta ver series y películas</p>
         <p><span class="emoji">🗣️</span> Solo hablo español</p>
-        <p><span class="emoji">🎮</span> Juego a la Playstation</p>
-        <p><span class="emoji">🎧</span> Escucho Spotify</p>
-    </div>
-    <div class="repositorios">
-        <div class="repositorio">
-            <h3>HTML Project</h3>
-            <p>Un proyecto simple en HTML.</p>
-            <a href="https://github.com/tu-usuario/html-project" target="_blank">Ver Repositorio</a>
+        <div class="section">
+            <h2>Lenguajes de Programación</h2>
+            <div class="badges">
+                <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+                <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+                <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+                <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+                <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+            </div>
         </div>
-        <div class="repositorio">
-            <h3>C++ Project</h3>
-            <p>Un proyecto en C++.</p>
-            <a href="https://github.com/tu-usuario/cpp-project" target="_blank">Ver Repositorio</a>
+        <div class="section">
+            <h2>Juegos</h2>
+            <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
         </div>
-        <div class="repositorio">
-            <h3>JavaScript Project</h3>
-            <p>Un proyecto en JavaScript.</p>
-            <a href="https://github.com/tu-usuario/js-project" target="_blank">Ver Repositorio</a>
+        <div class="section">
+            <h2>Música</h2>
+            <a href="https://open.spotify.com/user/314aeohq5f27erqwzhbl4kw3iena?si=IVJTj-Q4RuO9BjLFqHZ9lg" target="_blank">
+                <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+            </a>
         </div>
-        <div class="repositorio">
-            <h3>Java Project</h3>
-            <p>Un proyecto en Java.</p>
-            <a href="https://github.com/tu-usuario/java-project" target="_blank">Ver Repositorio</a>
+        <div class="section">
+            <h2>Redes Sociales</h2>
+            <a href="https://www.instagram.com/lesly.lz?igsh=MWV4N2F6b3Z6cXQ3aQ==" target="_blank">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+            </a>
         </div>
     </div>
     <footer>
